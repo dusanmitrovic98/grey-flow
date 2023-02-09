@@ -1,0 +1,25 @@
+{
+  "name": "greyflow",
+  "version": "1.0.0",
+  "description": "GreyFlow Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusanmitrovic98/GreyFlow.git"
+  },
+  "keywords": [
+    "GreyFlow"
+  ],
+  "author": "Dušan Mitrović (Dusan Mitrovic - BK2O198)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dusanmitrovic98/GreyFlow/issues"
+  },
+  "homepage": "https://github.com/dusanmitrovic98/GreyFlow#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
+}
