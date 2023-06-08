@@ -1,4 +1,4 @@
-# GreyFlow
+# grey-flow
 
 Copyright 2023 Dušan Mitrović
 
