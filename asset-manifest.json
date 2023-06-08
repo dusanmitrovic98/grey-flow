@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grey-flow/static/css/main.073c9b0a.css",
+    "main.js": "/grey-flow/static/js/main.1286c950.js",
+    "static/js/787.e69c5a1a.chunk.js": "/grey-flow/static/js/787.e69c5a1a.chunk.js",
+    "static/media/logo.svg": "/grey-flow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/grey-flow/index.html",
+    "main.073c9b0a.css.map": "/grey-flow/static/css/main.073c9b0a.css.map",
+    "main.1286c950.js.map": "/grey-flow/static/js/main.1286c950.js.map",
+    "787.e69c5a1a.chunk.js.map": "/grey-flow/static/js/787.e69c5a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1286c950.js"
+  ]
+}
